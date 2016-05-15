@@ -4,8 +4,8 @@ Ejemplo simple de creación de grafos con graphstream
 # Librerías
 La carpeta libs/ contiene las librerías necesarias del proyecto. En este caso solo son las de graphstream. Pero creo que es buena idea que siempre tengamos ordenadas las librerías de cada proyecto en una carpeta "libs" dentro de cada repositorio. 
 
-Para ayuda en graphstream, chécate.
-
+Para ayuda en graphstream, chécate:
+http://graphstream-project.org/doc/Tutorials/
 
 
 El grafo que genera este ejemplo es
